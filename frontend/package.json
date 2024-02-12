@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "http://chrispixelcraft.github.io/2024Azalea_Festival_KV",
+    "homepage": "http://chrispixelcraft.github.io/2024azalea_festival_KV",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
@@ -11,7 +11,7 @@
         "preview": "vite preview",
         "format": "prettier --write ./src",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d dist"
+        "deploy": "gh-pages -d build"
     },
     "dependencies": {
         "framer-motion": "^11.0.3",

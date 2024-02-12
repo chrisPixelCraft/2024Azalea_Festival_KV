@@ -7,7 +7,7 @@ const Content = () => {
     return (
         <>
             {/* subtitle */}
-            <section className="bg-brown-306 text-white py-8 flex justify-center items-center font-futura text-center fadeIn">
+            <section className="bg-brown-306 text-white py-8 flex justify-center items-center font-futura text-center">
                 <div className="container px-4">
                     <h1 className="text-3xl sm:text-5xl mb-6">
                         NTU Azalea Festival
@@ -21,7 +21,7 @@ const Content = () => {
             </section>
 
             {/* first image */}
-            <section className="bg-brown-306 text-white py-4 fadeIn">
+            <section className="bg-brown-306 text-white py-4 ">
                 <div className="flex justify-center items-center">
                     <div className="px-4">
                         <img
